@@ -24,3 +24,23 @@ Aplikasi latihan untuk perkuliahan Pemrograman Mobile.
 Meka / akun GitHub: mekapurwani
 ## Status
 Proyek awal perkuliahan.
+
+## Tujuan
+Proyek ini dibuat sebagai latihan untuk perkuliahan Pemrograman Mobile menggunakan Flutter.
+
+## Rencana Fitur
+1. Menampilkan halaman utama aplikasi.
+2. Menyediakan fitur navigasi antarhalaman.
+3. Mengembangkan fitur aplikasi sesuai kebutuhan proyek perkuliahan.
+
+## Cara Menjalankan
+Pastikan Flutter SDK sudah terpasang dan perangkat atau emulator sudah tersedia.
+
+Jalankan perintah berikut pada terminal:
+
+```bash
+flutter pub get
+flutter run
+```
+
+Aplikasi kemudian dapat dijalankan pada perangkat atau emulator yang terhubung.
