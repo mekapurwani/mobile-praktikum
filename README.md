@@ -33,9 +33,9 @@ Proyek awal perkuliahan.
 3. Menyiapkan dokumentasi proyek yang dapat dibaca oleh pengembang lain.
 
 ## Rencana Fitur
-1. Menampilkan daftar data dari API.
-2. Menyimpan data favorit secara lokal.
-3. Menambahkan halaman detail dan pencarian.
+1. Menampilkan halaman utama dengan navigasi antar halaman.
+2. Menampilkan daftar data dari API.
+3. Menyimpan data favorit secara lokal dan menambahkan halaman detail. 
 
 ## Cara Menjalankan
 1. Pastikan Flutter SDK sudah terpasang dan perangkat atau emulator sudah tersedia.
