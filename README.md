@@ -16,31 +16,33 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Proyek
-Pemrograman Mobile
+# Proyek Pemrograman Mobile
+
 ## Deskripsi
-Aplikasi latihan untuk perkuliahan Pemrograman Mobile.
+Aplikasi latihan untuk mempraktikkan alur kerja Git dan GitHub pada proyek mobile.
+
 ## Pengembang
 Meka / akun GitHub: mekapurwani
+
 ## Status
 Proyek awal perkuliahan.
 
 ## Tujuan
-Proyek ini dibuat sebagai latihan untuk perkuliahan Pemrograman Mobile menggunakan Flutter.
+1. Mempraktikkan penggunaan Git untuk mencatat perubahan proyek.
+2. Mempraktikkan penggunaan GitHub untuk menyimpan repository dan berkolaborasi.
+3. Menyiapkan dokumentasi proyek yang dapat dibaca oleh pengembang lain.
 
 ## Rencana Fitur
-1. Menampilkan halaman utama aplikasi.
-2. Menyediakan fitur navigasi antarhalaman.
-3. Mengembangkan fitur aplikasi sesuai kebutuhan proyek perkuliahan.
+1. Menampilkan daftar data dari API.
+2. Menyimpan data favorit secara lokal.
+3. Menambahkan halaman detail dan pencarian.
 
 ## Cara Menjalankan
-Pastikan Flutter SDK sudah terpasang dan perangkat atau emulator sudah tersedia.
-
-Jalankan perintah berikut pada terminal:
+1. Pastikan Flutter SDK sudah terpasang dan perangkat atau emulator sudah tersedia.
+2. Jalankan perintah berikut pada terminal:
 
 ```bash
 flutter pub get
 flutter run
-```
-
-Aplikasi kemudian dapat dijalankan pada perangkat atau emulator yang terhubung.
+``` 
+3. Aplikasi kemudian dapat dijalankan pada perangkat atau emulator yang terhubung.
